@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+ <HEAD>
+<TITLE>Michael Cordon</TITLE>
+
+<link 
+href="Style.css" 
+type="text/css"
+rel="stylesheet" />
+</HEAD>
+
+<meta charset="utf-8">
+
+<body>
+<h1><img src="Guatemala_Background_Photo.png" alt = "Photo of Guatemala">
+    <br> 
+    Michael Cordon  
+</h1>
+
+<table>
+<tr>
+    <td scope ="col"><pre>                          <b>Where Im From</b>                                                                                                            <b>Things of Interest</b>                                                                                                                                          <b>More</b></td></pre>      
+
+</tr> 
+<tr> 
+<td><pre> I am originaly from Guatemala, Guatemala City but I                                                 My hobbies include playing instruments, specifcally                                                                                                   <A HREF="http://www.tcnj.edu/~cordonm2/personalSite/cv">More About Guatemala</A>
+grew up in Trenton New Jersey. I currently live in Hamilton                                       guitar, violin, and ukulele.                                                                                                                                                  <A HREF="https://www.guitarcenter.com/">Where I get Gear</A> 
+and go to The College of New Jersey.</pre></td>                                                                           
+
+</tr>
+
+
+
+</table>
+<p><pre>
+    
+       
+</pre> 
+</p>
+</body>
+</html>
