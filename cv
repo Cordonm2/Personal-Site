@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>More About Guatemala</title>
+<link 
+href="Style.css" 
+type="text/css"
+rel="stylesheet" />
+</head>
+<body>
+
+<h1>More About Guatemala</h1>
+
+        
+<p>
+      <img src="Guatemala_1.png" alt = "Photo of Guatemala">This is the City of Antigua. The buidlings are extremely similar so it is easy to get lost, as every corner you turn looks like the same place you were. 
+       
+</p>
+         
+ 
+<p>
+        <img src="Guatemala_2.png" alt = "Photo of Guatemala"> This is a look into the natural beauty of Guatemala. This specific area is in El Progresso, El Jicaro, Guatemala.
+</p>
+
+<p>
+        <img src="Guatemala_3.png" alt = "Photo of Guatemala"> This was a picture I took looking at the two volcanoes of Guatemala. The volcanoe of water and the volcanoe of fire.
+</p>
+<UL>
+        <LI> <A HREF="  http://www.tcnj.edu/~cordonm2/personalSite/">Back</A></LI>
+        <LI> <A HREF="https://visitguatemala.com/">Visit Guatemala</A></LI>
+        </UL> 
+</body>
+</html>
